@@ -169,7 +169,7 @@ Todas as ferramentas consomem **APIs públicas e gratuitas, sem necessidade de c
 
 ### 🎥 Vídeo de apresentação
 
-🚧 Em breve
+[![Assista no YouTube](https://img.youtube.com/vi/-Jxpwi45Lu8/0.jpg)](https://www.youtube.com/watch?v=-Jxpwi45Lu8)
 
 ---
 
